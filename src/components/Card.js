@@ -26,7 +26,7 @@ const Card = ({filteredRobots, handleDeleteCard}) => {
                         )   
                     }  
                 )
-            };      
+            }      
         </div>     
     )
 };
