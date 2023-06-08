@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Infinity-Robots/static/css/main.3cb8fa9f.css",
-    "main.js": "/Infinity-Robots/static/js/main.5c4cd73c.js",
+    "main.js": "/Infinity-Robots/static/js/main.fd84e337.js",
     "static/js/787.34218c0a.chunk.js": "/Infinity-Robots/static/js/787.34218c0a.chunk.js",
     "index.html": "/Infinity-Robots/index.html",
     "main.3cb8fa9f.css.map": "/Infinity-Robots/static/css/main.3cb8fa9f.css.map",
-    "main.5c4cd73c.js.map": "/Infinity-Robots/static/js/main.5c4cd73c.js.map",
+    "main.fd84e337.js.map": "/Infinity-Robots/static/js/main.fd84e337.js.map",
     "787.34218c0a.chunk.js.map": "/Infinity-Robots/static/js/787.34218c0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cb8fa9f.css",
-    "static/js/main.5c4cd73c.js"
+    "static/js/main.fd84e337.js"
   ]
 }
