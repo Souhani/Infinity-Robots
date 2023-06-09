@@ -44,7 +44,7 @@ const App = () => {
             const handlAddCards = () => {
              if(name.length!==0 && nickname.length!==0){
                let newCard = { id:cards.length+1, firstName: name, lastName: nickname}
-               setCards([...cards,newCard]  );
+               setCards([newCard,...cards]  );
                setName(''); // Clear the name input field when the user done
                setNickname(''); // Clear the Nickname input field also
                setIndex(index+1);
